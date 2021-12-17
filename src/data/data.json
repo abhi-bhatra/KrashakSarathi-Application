@@ -1,0 +1,102 @@
+{
+  "Header": {
+    "title": "We are a Farming Mates",
+    "paragraph": "Sit Backand Relax. Let us help you find the right farming strategies for your farm."
+  },
+  "About": {
+    "paragraph": "We are the analytics platform, which gives the advanced analytics outcome for any specific farming location based on current environmental scenarios like humidity, temperature, soil condition, etc. The platform gives the best possible farming strategy that can be implemented for a more reliable farming season using applied Machine Learning to the observation data.",
+    "Why": [
+      "Analyst Platform",
+      "Water Avaialability Analysis",
+      "Soil Health Data"
+    ],
+    "Why2": [
+      "Rain Forecasting",
+      "Advisory System",
+      "Smart Crop Selling System"
+    ]
+  },
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I own farms at different parts of the world. I use Farm Mitra Application to know the soil condition and create strategy \"",
+      "name": "Ram Kumar"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"I want to know the Rain Forecasting before sowing the seeds in my farms. So, I use the application for the same\"",
+      "name": "Reena Devi"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"I am a trader of fertilizers. Farmers came to me for buying the fertilizers. I use this application to know which kind of Soil Fertilizers are needed in my region.\"",
+      "name": "Payal Devi"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I am student. I am researching on farmers and farming practices. This app helps me to know better about farms and best farming practices\"",
+      "name": "Aviral"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I am a fitness freak. I love to eat everything organic. It is easier to order fresh veggies and fruits directly from the farms with the help of Farm Mitra Applications.\"",
+      "name": "Sunil Kumar"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Abhinav Sharma",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Prerit Munjal",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Abhishek Sharma",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Jatin Sharma",
+      "job": "Co-Founder"
+    }
+  ],
+  "Contact": {
+    "address": "118 Mansarovar, Jaipur, Rajasthan, India",
+    "phone": "+1 123 456 1234",
+    "email": "farm-mitra@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-leaf",
+      "loc": "soil",
+      "title": "Soil Condition",
+      "text": "Know your soil condition and get the best out of your Farms."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "loc": "weather",
+      "title": "Weather Forecast",
+      "text": "Know the weather forecast and get the best out of your Farms."
+    },
+    {
+      "icon": "fa fa-group",
+      "loc": "price",
+      "title": "Get the Price",
+      "text": "Get the best Price for your crops."
+    },
+    {
+      "icon": "fa fa-magic",
+      "loc": "cropcalculator",
+      "title": "Know which crop to Sow",
+      "text": "Calculate the best crop to sow by knowing the weather forecast, Soil Condition and other factors."
+    }
+  ]
+}
