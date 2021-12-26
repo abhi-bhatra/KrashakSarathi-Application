@@ -17,6 +17,9 @@ function Soil() {
         <div>
       <h1>Soil Moisture and Temperature</h1>
       <h1>{post.soil_temperature}</h1>
+      {post.map((edata) => (
+        <p>{edata.soil_moisture}</p>
+      ))}
     </div>
     );
 }
