@@ -34,3 +34,7 @@ function Soil() {
 }
 
 export default Soil;
+
+// scantime: "2021-12-22 12:52:24Z"
+// soil_moisture: 36.33333206176758
+// soil_temperature: 3.4500061035156477
