@@ -136,7 +136,7 @@ export const Features = (props) => {
                         <div className="divider-custom-line"></div>
                       </div>
                       <button className="btn-custom">
-                        <a href="#" target="blank">Buy Veggies</a>
+                        <a href="https://ksarathi-ecom.azurewebsites.net/" target="blank">Buy Veggies</a>
                       </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>
