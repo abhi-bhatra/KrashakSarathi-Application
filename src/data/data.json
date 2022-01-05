@@ -87,16 +87,16 @@
       "text": "Know the weather forecast and get the best out of your Farms."
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-magic",
       "loc": "price",
       "title": "Get the Price",
       "text": "Get the best Price for your crops."
     },
     {
-      "icon": "fa fa-magic",
-      "loc": "cropcalculator",
-      "title": "Know which crop to Sow",
-      "text": "Calculate the best crop to sow by knowing the weather forecast, Soil Condition and other factors."
+      "icon": "fa fa-group",
+      "loc": "farm-fresh",
+      "title": "Get the farm fresh veggies",
+      "text": "Get farm fresh veggies/fruits directly at your doorstep."
     }
   ]
 }

@@ -261,6 +261,10 @@ header .intro-text {
   background: linear-gradient(to right, #00FF7F 0%, #3CB371 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
+
+#features a{
+  color: white;
+}
 /* About Section */
 #about {
   padding: 100px 0;

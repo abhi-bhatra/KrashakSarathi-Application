@@ -39,6 +39,9 @@ export const Features = (props) => {
                         <div className="divider-custom-icon"><i class="material-icons">star</i></div>
                         <div className="divider-custom-line"></div>
                       </div>
+                      <button className="btn-custom">
+                        <a href="https://ks-soil-weather.azurewebsites.net/soil" target="blank">Soil Condition</a>
+                      </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>
 
@@ -68,6 +71,9 @@ export const Features = (props) => {
                         <div className="divider-custom-icon"><i class="material-icons">star</i></div>
                         <div className="divider-custom-line"></div>
                       </div>
+                      <button className="btn-custom">
+                        <a href="https://ks-soil-weather.azurewebsites.net/weather" target="blank">Rain Forecasting</a>
+                      </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>
 
@@ -97,6 +103,9 @@ export const Features = (props) => {
                         <div className="divider-custom-icon"><i class="material-icons">star</i></div>
                         <div className="divider-custom-line"></div>
                       </div>
+                      <button className="btn-custom">
+                        <a href="https://ksarathicommodity.azurewebsites.net/" target="blank">Get Price</a>
+                      </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>
 
@@ -109,7 +118,7 @@ export const Features = (props) => {
         </div>
 
         {/* Crop Pricing Calci */}
-        <div className="portfolio-modal modal fade" id="cropcalculator" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true">
+        <div className="portfolio-modal modal fade" id="farm-fresh" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true">
           <div className="modal-dialog modal-xl" role="document">
             <div className="modal-content">
               <button className="close" type="button" data-dismiss="modal" aria-label="Close">
@@ -120,12 +129,15 @@ export const Features = (props) => {
                   <div className="row justify-content-center">
 
                     <div className="col-md-10 col-md-offset-1">
-                      <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Crop Calculator</h2>
+                      <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Buy Veggies/Fruits</h2>
                       <div className="divider-custom">
                         <div className="divider-custom-line"></div>
                         <div className="divider-custom-icon"><i class="material-icons">star</i></div>
                         <div className="divider-custom-line"></div>
                       </div>
+                      <button className="btn-custom">
+                        <a href="#" target="blank">Buy Veggies</a>
+                      </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>
 
