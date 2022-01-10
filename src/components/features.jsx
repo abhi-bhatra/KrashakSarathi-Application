@@ -40,7 +40,7 @@ export const Features = (props) => {
                         <div className="divider-custom-line"></div>
                       </div>
                       <button className="btn-custom">
-                        <a href="https://ks-soil-weather.azurewebsites.net/soil" target="blank">Soil Condition</a>
+                        <a href="Soil">Soil Condition</a>
                       </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>
@@ -72,7 +72,7 @@ export const Features = (props) => {
                         <div className="divider-custom-line"></div>
                       </div>
                       <button className="btn-custom">
-                        <a href="https://ks-soil-weather.azurewebsites.net/weather" target="blank">Rain Forecasting</a>
+                        <a href="Weather">Rain Forecasting</a>
                       </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>

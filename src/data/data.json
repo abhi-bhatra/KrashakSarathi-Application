@@ -98,5 +98,14 @@
       "title": "Get the farm fresh veggies",
       "text": "Get farm fresh veggies/fruits directly at your doorstep."
     }
+  ],
+  "Soil": 
+  [
+    {
+      "img": "img/soil/01.png"
+    },
+    {
+      "img": "img/soil/02.png"
+    }
   ]
 }

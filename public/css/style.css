@@ -462,6 +462,17 @@ header .intro-text {
   padding: 10px 0 0;
   color: #888;
 }
+
+#Soil .thumbnail {
+  background: transparent;
+  border: 0;
+}
+
+#Soil .thumbnail .caption {
+  padding: 10px 0 0;
+  color: #888;
+}
+
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
@@ -714,4 +725,8 @@ label {
 .close:hover {
   color: #000;
   text-decoration: none;
+}
+#Soil .graph-image {
+  width: auto;
+  height: 100;
 }

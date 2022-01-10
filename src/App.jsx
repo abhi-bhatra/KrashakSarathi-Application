@@ -10,6 +10,9 @@ import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { Soil } from "./components/Soil";
+import { Weather } from "./components/Weather";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -21,18 +24,23 @@ const App = () => {
   useEffect(() => {
     setLandingPageData(JsonData);
   }, []);
-
   return (
+    <Router>
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
+      <Switch>
+          <Route exact path='/Soil' component={Soil} />
+          <Route exact path='/Weather' component={Weather} />
+      </Switch>
       {/* <Gallery data={landingPageData.Gallery}/> */}
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>
+    </Router>
   );
 };
 
