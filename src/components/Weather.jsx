@@ -9,7 +9,7 @@ export const Weather = (props) => {
           var lat = position.coords.latitude;
           var long = position.coords.longitude; 
           
-          axios.get(`https://api.ambeedata.com/weather/forecast/by-lat-lng?lat=${lat}&lng=${long}&filter=daily`, {headers: {'x-api-key': '4e01913f5204a97c2e44ff85c406b6bb8ebde8b8a63d4037210cc700c3b2350d','Content-type': 'application/json'}}).then((response) => {
+          axios.get(`https://api.ambeedata.com/weather/forecast/by-lat-lng?lat=${lat}&lng=${long}&filter=daily`, {headers: {'x-api-key': 'ef735cb93b29a90736a74381cec8d1e1599cecfa7868f934de9cd1734a8a4344','Content-type': 'application/json'}}).then((response) => {
           const APIResponse = response.data;
           console.log(APIResponse.data.forecast);
           setPost(APIResponse.data.forecast);
