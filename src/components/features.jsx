@@ -104,7 +104,7 @@ export const Features = (props) => {
                         <div className="divider-custom-line"></div>
                       </div>
                       <button className="btn-custom">
-                        <a href="https://ksarathicommodity.azurewebsites.net/" target="blank">Get Price</a>
+                        <a href="http://52.228.230.70:5000/" target="blank">Get Price</a>
                       </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>
@@ -136,7 +136,7 @@ export const Features = (props) => {
                         <div className="divider-custom-line"></div>
                       </div>
                       <button className="btn-custom">
-                        <a href="https://ksarathi-ecom.azurewebsites.net/" target="blank">Buy Veggies</a>
+                        <a href="http://20.109.213.55:8000/" target="blank">Buy Veggies</a>
                       </button>
                       {/* <p className="mb-5"><iframe src='https://webchat.botframework.com/embed/edubotqna-bot?s=XaExDKxVr1I.0bObBjWc344ts2noUmTzyw-V_whYAqsmRxH4XpZJa7E'  styles='width: 100%; min-height: 300px;'></iframe></p> */}
                     </div>
